@@ -13,4 +13,6 @@ Please see `LICENSE` for details.
 
 # Build
 
+```bash
 mvn clean install
+```
